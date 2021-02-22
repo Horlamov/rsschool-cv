@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://horlamov.github.io/rsschool-cv/
